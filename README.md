@@ -96,6 +96,8 @@ Reports are generated to show spending behavior by category, trends over time, a
 Visualization options help users better understand their financial distribution through charts.
 
 **<ins>Contribution**
+
+
 Contributions are welcome to improve this project! You can:
 
 Report issues or bugs.
