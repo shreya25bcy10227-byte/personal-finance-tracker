@@ -30,15 +30,15 @@ Basic data management features like updating and deleting transactions.
 
 Clone the repository to your local machine:
 
-text
+
 git clone https://github.com/yourusername/Personal-Finance-Detector.git
 Navigate into the project directory:
 
-text
+
 cd Personal-Finance-Detector
 Install required dependencies:
 
-text
+
 pip install -r requirements.txt
 Dependencies typically include sqlite3 (standard in Python), and optionally data visualization libraries such as matplotlib.
 
@@ -49,9 +49,11 @@ Dependencies typically include sqlite3 (standard in Python), and optionally data
 
 Run the main program to start managing your finances:
 
-text
+
 python main.py
-Typical operations available in the program:
+
+
+<ins>Typical operations available in the program:
 
 Add income amounts.
 
