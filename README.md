@@ -9,7 +9,7 @@ Personal Finance Detector is a Python-based application designed to help users m
 **<ins>Features**
 
 
-<ins>Easy input of income and expense transactions with categorization.
+Easy input of income and expense transactions with categorization.
 
 Persistent data storage using a local SQLite database.
 
