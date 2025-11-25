@@ -6,8 +6,6 @@ Personal Finance Detector is a Python-based application designed to help users m
 
 
 
-
-
 **Features**
 
 
@@ -44,7 +42,11 @@ text
 pip install -r requirements.txt
 Dependencies typically include sqlite3 (standard in Python), and optionally data visualization libraries such as matplotlib.
 
+
+
 **Usage**
+
+
 Run the main program to start managing your finances:
 
 text
@@ -63,18 +65,26 @@ Save data and exit the application.
 
 Follow on-screen menus or prompts to perform these actions interactively.
 
+
+
 **Project Structure**
-main.py — The main entry point that contains the interface and program logic.
 
-database.py — Handles SQLite database operations to store and retrieve financial data.
 
-reports.py — Generates summaries and visual reports.
+**main.py** — The main entry point that contains the interface and program logic.
 
-requirements.txt — Lists the Python packages required.
+**database.py** — Handles SQLite database operations to store and retrieve financial data.
+
+**reports.py** — Generates summaries and visual reports.
+
+**requirements.txt** — Lists the Python packages required.
 
 README.md — Project documentation.
 
+
+
 **How It Works**
+
+
 The application records each transaction (income or expense) with details such as amount, category, and description.
 
 All financial data is stored locally in an SQLite database for persistence.
