@@ -1,5 +1,6 @@
 # personal-finance-tracker
-**Overview**\
+**Overview**
+
 
 Personal Finance Detector is a Python-based application designed to help users manage their personal finances by tracking income, expenses, and savings. The application provides a user-friendly interface for inputting financial data, analyzing spending patterns, and generating insightful reports. It aims to promote better financial decision-making through data-driven summaries and visualizations.
 
